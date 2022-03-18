@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9d37b83.css",
+    "main.js": "/static/js/main.7e1d8686.js",
+    "static/media/Cubano.ttf": "/static/media/Cubano.1ea52f1c8a3cb1269081.ttf",
+    "static/media/btn-change.svg": "/static/media/btn-change.63331ec6465b2f82dca115a43d3b4f98.svg",
+    "index.html": "/index.html",
+    "main.d9d37b83.css.map": "/static/css/main.d9d37b83.css.map",
+    "main.7e1d8686.js.map": "/static/js/main.7e1d8686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d37b83.css",
+    "static/js/main.7e1d8686.js"
+  ]
+}
